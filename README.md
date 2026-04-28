@@ -26,7 +26,7 @@ public class FirstScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        print("Welcome to Unity");
+        print("Welcome to the world of Unity!");
     }
 
     // Update is called once per frame
@@ -37,5 +37,8 @@ public class FirstScript : MonoBehaviour
 }
 ```
 ### Output:
+<img width="1919" height="1024" alt="Screenshot 2026-04-28 092118" src="https://github.com/user-attachments/assets/182fa85b-ae87-4144-9118-3639bd88cffa" />
+<img width="1919" height="1020" alt="Screenshot 2026-04-28 092131" src="https://github.com/user-attachments/assets/fa3dddc1-6740-4ed2-8cbd-0c0f72cf9775" />
+
 ### Result:
 Thus the welcome script was printed on Console Window sucessfully.
