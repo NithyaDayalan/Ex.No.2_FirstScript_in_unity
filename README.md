@@ -1,6 +1,6 @@
 ## Ex.No.2_FirstScript_in_unity
-### DATE:
-### REGISTER NUMBER :
+### DATE: 28/04/2024
+### REGISTER NUMBER : 212223240110
 ### AIM:
 To learn the basic scripting in Unity and print welcome message in Console window.
 
@@ -17,6 +17,7 @@ To learn the basic scripting in Unity and print welcome message in Console windo
 10. Stop the program.
     
 ### Program
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -34,6 +35,7 @@ public class FirstScript : MonoBehaviour
         
     }
 }
+```
 ### Output:
 ### Result:
 Thus the welcome script was printed on Console Window sucessfully.
